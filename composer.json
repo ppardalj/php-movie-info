@@ -1,0 +1,15 @@
+{
+  "name": "ppardalj/php-movie-info",
+  "description": "CLI command that generates CSV file with movie info out of file with movie names",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pedro Pardal",
+      "email": "ppardalj@gmail.com"
+    }
+  ],
+  "require": {
+    "imdbphp/imdbphp": "v5.1.1"
+  }
+}
