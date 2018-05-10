@@ -8,7 +8,7 @@ This is small CLI script that, given a list of movies from a txt file, generates
 
 ## Usage
 
-```php
+```sh
 $ php movie-info.php movies.in > movies.csv
 ```
 
